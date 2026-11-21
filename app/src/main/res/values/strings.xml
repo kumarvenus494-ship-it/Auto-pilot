@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_description">Detects when Gemini appears to finish a response and can send the next prompt.</string>
+</resources>
